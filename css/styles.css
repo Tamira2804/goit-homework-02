@@ -63,9 +63,7 @@ ul {
 }
 .auth-nav .link {
   color: var(--text-color-primary);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
+  font-style: normal;
   text-decoration: none;
 }
 .auth-nav .link:focus,
@@ -79,7 +77,6 @@ ul {
 }
 .hero .title {
   color: var(--title-color-inverted);
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
 }
@@ -97,7 +94,6 @@ ul {
 /*Features*/
 .title {
   color: var(--primary-title-color);
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
 }
@@ -129,9 +125,6 @@ ul {
 }
 .footer .text {
   color: var(--text-color-secondary);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
 }
 
 /*PORTFOLIO*/
